@@ -1,4 +1,4 @@
-use crate::models::models::{Task};
+use crate::models::models::Task;
 use std::sync::{Arc, Mutex};
 
 #[derive(Clone)]

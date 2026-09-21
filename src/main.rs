@@ -1,9 +1,9 @@
 
 use crate::states::AppState;
-mod models;
 mod routes;
 mod handlers;
 mod states;
+mod models;
 
 #[tokio::main]
 async fn main (){
